@@ -2,7 +2,7 @@
 
 # logApp-scaling-octo
 
-logApp-scalling-octo or *logApp* is a sample application that logs the individual's personal information and the date and time he/she visits the place via its *Registration Page*. It also has a *Login Page* for the administrator to enter the *Main Page* and view the information acquired from the registration through table, as well as a *Logout* button to exit the Main Page.
+A sample application called logApp-scalling-octo or logApp records a visitor's personal data as well as the time and date of their visit via its Registration Page. Also included are a Login Page and a Logout button, which allow the administrator to access the Main Page and view the data obtained from the registration through table.
 
 <br />
 
